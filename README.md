@@ -8,7 +8,6 @@
 * I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 * My interests are web and mobile development, UX/UI and Data Science.
 * My hobbies are playing games, reading, watching anime, series and movies.
-* I love solving problems at [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/434518).
 
 ### Skills
 [![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
