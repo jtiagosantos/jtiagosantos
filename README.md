@@ -6,7 +6,7 @@
 
 ### About me
 * I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
-* My interests are web and mobile development, Data Science, Web Scraping and Internet of Things (IoT).
+* My interests are Web and Mobile Development, Data Science, Web Scraping and Internet of Things (IoT).
 * My hobbies are playing games, reading, watching anime, series and movies.
 
 ### Skills
