@@ -9,11 +9,18 @@
 * My interests are Web and Mobile Development, Data Science, Web Scraping and Internet of Things (IoT).
 * My hobbies are playing games, reading, watching anime, series and movies.
 
+
+### Languages
+* Python
+* Ruby
+* Haskell
+
 ### Skills
-[![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
-[![Ruby Badge](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white&link=https://www.ruby-lang.org/pt/)](https://www.ruby-lang.org/pt/)
+* Data Analysis
+* Web Scraping
+* Web Development (beginner)
 
 ### I’m currently learning
-[![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-[![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![C Badge](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/C)
+* HTML5
+* CSS3
+* C
