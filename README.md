@@ -16,9 +16,9 @@
 * Haskell
 
 ### Skills
-* Data Analysis
-* Web Scraping
-* Web Development (beginner)
+* Data Analysis.
+* Web Scraping.
+* Web Development (beginner).
 
 ### I’m currently learning
 * HTML5
