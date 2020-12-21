@@ -19,8 +19,10 @@
 * Data Analysis.
 * Web Scraping.
 * Web Development (beginner).
+* Machine Learning (beginner).
 
 ### I’m currently learning
 * HTML5
 * CSS3
 * C
+* Machine Learning
