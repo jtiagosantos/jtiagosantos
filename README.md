@@ -1,4 +1,4 @@
-# Hi, I'm Tiago!
+# Hi, I'm Tiago! :computer:
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jtiagosantos)](https://github.com/jtiagosantos)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-tiago-santos-de-lima-aaa4361a4/)](https://www.linkedin.com/in/jos%C3%A9-tiago-santos-de-lima-aaa4361a4/)
@@ -37,6 +37,5 @@
 
 :pushpin: Machine Learning
 
-![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true&theme=algolia&include_all_commits=true)
-
+![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true&theme=algolia&include_all_commits=true&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtiagosantos&layout=compact)](https://github.com/jtiagosantos/github-readme-stats)
