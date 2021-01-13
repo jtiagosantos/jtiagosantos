@@ -37,5 +37,5 @@
 
 :pushpin: Machine Learning
 
-![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true&theme=algolia&include_all_commits=true&)
+![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtiagosantos&layout=compact)](https://github.com/jtiagosantos/github-readme-stats)
