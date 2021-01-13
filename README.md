@@ -5,24 +5,34 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jtiago_santos/)](https://www.instagram.com/jtiago_santos/)
 
 ### About me
-* I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
-* My interests are Web and Mobile Development, Data Science, Web Scraping, Machine Learning and Internet of Things (IoT).
-* My hobbies are playing games, reading, watching anime, series and movies.
+:books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
+
+:computer: My interests are Web and Mobile Development, Data Science, Web Scraping, Machine Learning and Internet of Things (IoT).
+
+:heart: My hobbies are playing games, reading, watching anime, series and movies.
 
 
 ### Languages
-* Python
-* Ruby
-* Haskell
+:heavy_check_mark: Python
+
+:heavy_check_mark: Ruby
+
+:heavy_check_mark: Haskell
 
 ### Skills
-* Data Analysis.
-* Web Scraping.
-* Web Development (beginner).
-* Machine Learning (beginner).
+:one: Data Analysis.
+
+:two: Web Scraping.
+
+:three: Web Development (beginner).
+
+:four: Machine Learning (beginner).
 
 ### I’m currently learning
-* HTML5
-* CSS3
-* C
-* Machine Learning
+:pushpin: HTML5
+
+:pushpin: CSS3
+
+:pushpin: C
+
+:pushpin: Machine Learning
