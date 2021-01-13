@@ -37,4 +37,4 @@
 
 :pushpin: Machine Learning
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos)
+![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true)
