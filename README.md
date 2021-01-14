@@ -11,6 +11,8 @@
 
 :heart: My hobbies are playing games, reading, watching anime, series and movies.
 
+:rocket: Community member Rocketseat.
+
 
 ### Languages
 :heavy_check_mark: Python
