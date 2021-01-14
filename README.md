@@ -28,7 +28,7 @@
 
 :three: Web Development (beginner).
 
-:four: Machine Learning (beginner).
+:four: Machine Learning.
 
 ### I’m currently learning
 :pushpin: HTML5
