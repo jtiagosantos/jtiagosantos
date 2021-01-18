@@ -15,11 +15,8 @@
 
 
 ### Languages
-:heavy_check_mark: Python
-
-:heavy_check_mark: Ruby
-
-:heavy_check_mark: Haskell
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://docs.python.org/pt-br/3/)](https://docs.python.org/pt-br/3/)
+[![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&lihttps://www.ruby-lang.org/pt/documentation/nk=)](https://www.ruby-lang.org/pt/documentation/)
 
 ### Skills
 :one: Data Analysis.
