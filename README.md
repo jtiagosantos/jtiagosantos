@@ -17,7 +17,7 @@
 [![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&lihttps://www.ruby-lang.org/pt/documentation/nk=)](https://www.ruby-lang.org/pt/documentation/)
 
 ### Skills
-:one: Data Analysis | :two: Web Scraping | :three: Machine Learning
+:one: Data Analysis | :two: Web Scraping | :three: Machine Learning | :four: Git
 
 ### Interests
 :one: Front-end Web Development.
