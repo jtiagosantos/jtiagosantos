@@ -7,8 +7,6 @@
 ### About me
 :books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 
-:computer: My interests are Web and Mobile Development, Data Science, Web Scraping, Machine Learning and Internet of Things (IoT).
-
 :heart: My hobbies are playing games, reading, watching anime, series and movies.
 
 :rocket: Community member Rocketseat.
