@@ -27,6 +27,8 @@
 
 :pushpin: CSS3
 
+:pushpin: Javascript
+
 :pushpin: C
 
 :pushpin: Machine Learning
