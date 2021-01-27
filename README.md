@@ -12,7 +12,7 @@
 :rocket: Community member Rocketseat.
 
 
-### Languages
+### Programming languages
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://docs.python.org/pt-br/3/)](https://docs.python.org/pt-br/3/)
 [![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&lihttps://www.ruby-lang.org/pt/documentation/nk=)](https://www.ruby-lang.org/pt/documentation/)
