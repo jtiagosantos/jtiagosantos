@@ -31,8 +31,6 @@
 
 :pushpin: Javascript
 
-:pushpin: C
-
 :pushpin: Machine Learning
 
 ![jtiagosantos github stats](https://github-readme-stats.vercel.app/api?username=jtiagosantos&show_icons=true&theme=yeblu&include_all_commits=true)
