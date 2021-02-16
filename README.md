@@ -19,7 +19,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ### Skills
-:one: Data Analysis | :two: Web Scraping | :three: Machine Learning | :four: Git
+:one: Data Analysis | :two: Web Scraping | :three: Git
 
 ### Interests
 :one: Front-end Web Development.
