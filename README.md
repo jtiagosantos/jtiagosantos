@@ -7,6 +7,8 @@
 ### About me
 :books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 
+:computer: Web development student focused on front-end.
+
 :heart: My hobbies are playing games, reading, watching anime, series and movies.
 
 :rocket: Community member Rocketseat.
@@ -26,11 +28,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtiagosantos)
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### Skills
-:one: Git | :two: Data Analysis | :three: Web Scraping
-
 ### Interests
-:star: Front-end Web Development.
+:star: Mobile Development
+
+:star: Database
+
+:star: SQL / No-SQL
 
 ### I’m currently learning
 :pushpin: HTML5
