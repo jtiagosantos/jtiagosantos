@@ -36,11 +36,9 @@
 :star: SQL / No-SQL
 
 ### I’m currently learning
-:pushpin: HTML5
-
-:pushpin: CSS3
-
-:pushpin: Javascript
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation) 
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/docs/getting-started.html)
 
 ### :zap: GitHub Stats
 
