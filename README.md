@@ -7,8 +7,6 @@
 ### About me
 :books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 
-:dart: I am currently a trainee at COLTECH - CONSULTORIA EM ENGENHARIA JÚNIOR.
-
 :computer: Web development student focused on front-end.
 
 :heart: My hobbies are playing games, reading, watching anime, series and movies.
