@@ -33,9 +33,9 @@
 ### Interests
 :star: Mobile Development
 
-:star: Database
+:star: NodeJs
 
-:star: SQL / No-SQL
+:star: Database SQL / No-SQL
 
 ### I’m currently learning
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
