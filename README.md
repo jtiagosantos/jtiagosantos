@@ -31,11 +31,12 @@
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ### Interests
-:star: Mobile Development
 
 :star: NodeJs
 
 :star: Database SQL / No-SQL
+
+:star: Mobile Development
 
 ### I’m currently learning
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
