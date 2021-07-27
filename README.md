@@ -7,6 +7,8 @@
 ### About me
 :books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 
+:briefcase: Software Development Intern at [Agrosmart](https://agrosmart.com.br/).
+
 :computer: Web development student focused on front-end.
 
 :heart: My hobbies are playing games, reading, watching anime, series and movies.
