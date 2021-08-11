@@ -25,6 +25,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://docs.python.org/pt-br/3/)](https://docs.python.org/pt-br/3/)
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&lihttps://www.ruby-lang.org/pt/documentation/nk=)](https://www.ruby-lang.org/pt/documentation/)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/documentation/)
 
 
 ### Tools
