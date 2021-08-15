@@ -42,7 +42,7 @@
 
 :star: Database SQL / No-SQL
 
-:star: Mobile Development
+:star: React Native
 
 ### I’m currently learning
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/docs/getting-started.html)
