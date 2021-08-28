@@ -5,15 +5,31 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jtiago_santos/)](https://www.instagram.com/jtiago_santos/)
 
 ### About me
-:books: I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
+<div>
+<img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" height="25px"/> 
+I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
+</div>
 
-:briefcase: Software Development Intern at [Agrosmart](https://agrosmart.com.br/).
+<div>
+<img src="https://image.flaticon.com/icons/png/512/1086/1086474.png" height="25px"/>
+Software Development Intern at [Agrosmart](https://agrosmart.com.br/).
+</div>
 
-:computer: Web development student.
+<div>
+<img src="https://image.flaticon.com/icons/png/512/2933/2933245.png" height="25px"/>
+Web development student.
+</div>
 
-:heart: My hobbies are playing games, reading, watching anime, series and movies.
+<div>
+<img src="https://image.flaticon.com/icons/png/512/833/833472.png" height="25px"/>
+My hobbies are playing games, reading, watching anime, series and movies.
+</div>
 
-:rocket: Community member Rocketseat.
+<div>
+<img src="https://image.flaticon.com/icons/png/512/2285/2285537.png" height="25px"/>
+Community member Rocketseat.
+</div>
+
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
