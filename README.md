@@ -73,11 +73,20 @@ Community member Rocketseat.
 
 ### Interests
 
-:star: NodeJs
+<div>
+<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="25px"/>  
+NodeJs
+</div>
 
-:star: Database SQL / No-SQL
+<div>
+<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="25px"/>  
+Database SQL / No-SQL
+</div>
 
-:star: React Native
+<div>
+<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="25px"/>  
+React Native
+</div>
 
 ### I’m currently learning
 <p>
