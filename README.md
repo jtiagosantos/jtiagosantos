@@ -12,7 +12,7 @@ I am currently a bachelor's student in Computer Science at the Federal Universit
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1086/1086474.png" height="25px"/>
-Software Development Intern at [Agrosmart](https://agrosmart.com.br/).
+Software Development Intern at Agrosmart.
 </div>
 
 <div>
