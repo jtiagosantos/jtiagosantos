@@ -19,23 +19,23 @@
 
 ### Languages
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226269.png" height="50px"/>
+<img src="https://image.flaticon.com/icons/png/512/226/226269.png" height="40px"/>
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/732/732190.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/732/732190.png" height="40px"/>  
 &nbsp; 
-<img src="https://image.flaticon.com/icons/png/512/919/919831.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/919/919831.png" height="40px"/>  
 &nbsp; 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40px"/>
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="50px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40px"/>
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919852.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/919/919852.png" height="40px"/>  
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919839.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/919/919839.png" height="40px"/>  
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919842.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/919/919842.png" height="40px"/>  
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919850.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/919/919850.png" height="40px"/>  
 &nbsp;
 </p>
 
@@ -43,15 +43,15 @@
 
 ### Tools
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="50px"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40px"/>  
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="50px"/>  
+<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="40px"/>  
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50px"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40px"/>  
 &nbsp;
-<img src="https://sdtimes.com/wp-content/uploads/2018/04/1200px-Npm-logo.svg_.png" height="50px"/>  
+<img src="https://sdtimes.com/wp-content/uploads/2018/04/1200px-Npm-logo.svg_.png" height="40px"/>  
 &nbsp;
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" height="50px"/>  
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" height="40px"/>  
 &nbsp;
 </p>
 
@@ -65,13 +65,13 @@
 
 ### I’m currently learning
 <p>
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="50px"/> 
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40px"/> 
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="50px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
 &nbsp;
-<img src="https://images.tute.io/tute/topic/express-js.png" height="50px"/> 
+<img src="https://images.tute.io/tute/topic/express-js.png" height="40px"/> 
 &nbsp;  
-<img src="https://img.icons8.com/color/452/mongodb.png" height="50px"/>
+<img src="https://img.icons8.com/color/452/mongodb.png" height="40px"/>
 &nbsp;
 </p>
 
