@@ -98,8 +98,6 @@ React Native
 &nbsp;  
 <img src="https://img.icons8.com/color/452/mongodb.png" height="40px"/>
 &nbsp;
-<img src="https://img-premium.flaticon.com/png/512/4248/premium/4248416.png?token=exp=1630554664~hmac=ccfb3e8071352fe60f1037ab0c3c88dc" height="40px"/>
-&nbsp;
 </p>
 
 ### :zap: GitHub Stats
