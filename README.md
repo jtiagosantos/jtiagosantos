@@ -65,6 +65,8 @@ Community member Rocketseat.
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40px"/>  
 &nbsp;
+<img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" height="40px"/>  
+&nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1200px-Npm-logo.svg_.png" height="40px"/>  
 &nbsp;
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5Duu3bxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8k7tg1r8tzwkwtsxyz1v.png" height="40px"/>  
