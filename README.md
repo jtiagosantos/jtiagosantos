@@ -41,9 +41,9 @@ Community member Rocketseat.
 &nbsp; 
 <img src="https://image.flaticon.com/icons/png/512/919/919831.png" height="40px"/>  
 &nbsp; 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40px"/>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
 &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/919/919852.png" height="40px"/>  
 &nbsp;
