@@ -77,11 +77,6 @@ Community member Rocketseat.
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
-NodeJs
-</div>
-
-<div>
-<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
 Database SQL / No-SQL
 </div>
 
