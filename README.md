@@ -53,6 +53,8 @@ Community member Rocketseat.
 &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/919/919850.png" height="40px"/>  
 &nbsp;
+<img src="https://img-premium.flaticon.com/png/512/4248/premium/4248416.png?token=exp=1632282535~hmac=eb056a6f1420e59570380815b316ce30" height="40px"/>  
+&nbsp;
 </p>
 
 
