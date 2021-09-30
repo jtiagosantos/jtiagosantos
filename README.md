@@ -58,6 +58,29 @@ Community member Rocketseat.
 </p>
 
 
+### Technologies
+<p>
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40px"/> 
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
+&nbsp;
+<img src="https://camo.githubusercontent.com/bd16094376597edfc4a96d1b6326f4f10c04d3d6e817e77ac6d36d4962c8034f/687474703a2f2f646f63732e73657175656c697a656a732e636f6d2f6d616e75616c2f61737365742f6c6f676f2d736d616c6c2e706e67" height="40px"/> 
+&nbsp;
+</p>
+
+
+### Databases
+<p>
+<img src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67" height="40px"/> 
+&nbsp;
+<img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" height="40px"/> 
+&nbsp;
+<img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/> 
+&nbsp;
+<img src="https://img.icons8.com/color/452/mongodb.png" height="40px"/>
+&nbsp;
+</p>
+
 
 ### Tools
 <p>
