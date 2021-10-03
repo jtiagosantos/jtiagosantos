@@ -75,9 +75,9 @@ Community member Rocketseat.
 &nbsp;
 <img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" height="40px"/> 
 &nbsp;
-<img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/> 
-&nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="40px"/>
+&nbsp;
+<img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/> 
 &nbsp;
 </p>
 
