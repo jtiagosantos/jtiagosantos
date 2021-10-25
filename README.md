@@ -17,7 +17,7 @@ Software Development Intern at Agrosmart.
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/2933/2933245.png" height="25px"/>
-Web development student.
+Software development student.
 </div>
 
 <div>
