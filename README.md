@@ -1,13 +1,17 @@
-# Hi, I'm Tiago! :man_technologist:
+# Hi, I'm Tiago! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50" />
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jtiagosantos)](https://github.com/jtiagosantos)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-tiago-santos-de-lima-aaa4361a4/)](https://www.linkedin.com/in/josetiagosantosdelima/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jtiago_santos/)](https://www.instagram.com/jtiago_santos/)
 
 ### About me
 <div>
 <img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" height="25px"/> 
 I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
+</div>
+
+<div>
+<img src="https://image.flaticon.com/icons/png/512/2285/2285537.png" height="25px"/>
+Student of Rocketseat's Ignite Acceleration Program. 
 </div>
 
 <div>
@@ -25,13 +29,7 @@ Software development student.
 My hobbies are playing games, reading, watching anime, series and movies.
 </div>
 
-<div>
-<img src="https://image.flaticon.com/icons/png/512/2285/2285537.png" height="25px"/>
-Community member Rocketseat.
-</div>
-
-
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif" />
 
 ### Languages
 <p>
@@ -70,8 +68,10 @@ Community member Rocketseat.
 &nbsp;
 </p>
 
-
 ### Databases
+
+<img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
+
 <p>
 <img src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67" height="40px"/> 
 &nbsp;
@@ -84,7 +84,6 @@ Community member Rocketseat.
 <img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" height="40px"/> 
 &nbsp;
 </p>
-
 
 ### Tools
 <p>
