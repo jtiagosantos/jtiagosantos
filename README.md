@@ -48,10 +48,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/919/919839.png" height="40px"/>  
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919842.png" height="40px"/>  
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919850.png" height="40px"/>  
-&nbsp;
 </p>
 
 
