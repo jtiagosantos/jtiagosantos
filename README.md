@@ -29,9 +29,10 @@ Software development student.
 My hobbies are playing games, reading, watching anime, series and movies.
 </div>
 
+### Languages
+
 <img align="right" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif" />
 
-### Languages
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226269.png" height="40px"/>
 &nbsp;
