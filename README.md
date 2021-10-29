@@ -1,3 +1,5 @@
+<img width="1000" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif" />
+
 # Hi, I'm Tiago! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50" />
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jtiagosantos)](https://github.com/jtiagosantos)
@@ -31,7 +33,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 ### Languages
 
-<img align="right" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif" />
+<img align="right" width="500" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226269.png" height="40px"/>
@@ -66,8 +68,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 </p>
 
 ### Databases
-
-<img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
 
 <p>
 <img src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67" height="40px"/> 
