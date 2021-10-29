@@ -131,5 +131,3 @@ React Native
 
 ### :zap: GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtiagosantos&layout=compact&langs_count=11&hide=lua&theme=yeblu)](https://github.com/jtiagosantos/github-readme-stats)
-
-![Snake animation](https://github.com/pedrollopesb/pedrollopesb/blob/output/github-contribution-grid-snake.svg)
