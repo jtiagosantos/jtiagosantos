@@ -131,4 +131,3 @@ React Native
 
 ### :zap: GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtiagosantos&layout=compact&langs_count=11&hide=lua&theme=yeblu)](https://github.com/jtiagosantos/github-readme-stats)
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=jtiagosantos&theme=yeblu&layout=compact)](https://github-readme-streak-stats.herokuapp.com/?user=jtiagosantos)
