@@ -31,6 +31,11 @@ Software development student.
 My hobbies are playing games, reading, watching anime, series and movies.
 </div>
 
+<div>
+<img src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1635776198~hmac=8fc6a1f15dbd2f73619d85a11a5dedc6" height="25px"/>
+<a href='https://east-veil-a47.notion.site/Jos-Tiago-Santos-de-Lima-afbbfc085ecd4bd996f6d361a55a01d8'>My resume.</a>
+</div>
+
 ### Languages
 
 <img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
