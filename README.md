@@ -110,17 +110,22 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
-Postgress
+PostgreSQL
 </div>
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
-Mariadb
+GraphQL
 </div>
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
 React Native
+</div>
+
+<div>
+<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
+Next
 </div>
 
 ### I’m currently learning
