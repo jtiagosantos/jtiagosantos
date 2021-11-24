@@ -55,6 +55,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://image.flaticon.com/icons/png/512/919/919839.png" height="40px"/>  
 &nbsp;
+<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1637761526~hmac=034165f295ec4c492698fd42c0ee1222" height="40px"/>  
+&nbsp;
 </p>
 
 
@@ -67,8 +69,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <img src="https://images.tute.io/tute/topic/express-js.png" height="40px"/> 
 &nbsp; 
 <img src="https://camo.githubusercontent.com/bd16094376597edfc4a96d1b6326f4f10c04d3d6e817e77ac6d36d4962c8034f/687474703a2f2f646f63732e73657175656c697a656a732e636f6d2f6d616e75616c2f61737365742f6c6f676f2d736d616c6c2e706e67" height="40px"/> 
-&nbsp;
-<img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" height="40px"/> 
 &nbsp;
 </p>
 
