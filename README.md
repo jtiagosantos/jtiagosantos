@@ -103,6 +103,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" height="40px"/>  
 &nbsp;
+<img src="https://prettier.io/icon.png" height="40px"/>  
+&nbsp;
 </p>
 
 
