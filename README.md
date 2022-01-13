@@ -112,7 +112,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
-PostgreSQL
+PostgresSQL
 </div>
 
 <div>
@@ -127,7 +127,7 @@ React Native
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
-Next
+Next.js
 </div>
 
 ### I’m currently learning
