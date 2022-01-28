@@ -1,5 +1,3 @@
-<img width="1000" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif" />
-
 # Hi, I'm Tiago! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50" />
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jtiagosantos)](https://github.com/jtiagosantos)
@@ -50,10 +48,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919852.png" height="40px"/>  
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/919/919839.png" height="40px"/>  
 &nbsp;
 <img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1637761526~hmac=034165f295ec4c492698fd42c0ee1222" height="40px"/>  
 &nbsp;
