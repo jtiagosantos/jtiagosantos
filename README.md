@@ -128,6 +128,8 @@ Next.js
 <p>
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40px"/> 
 &nbsp;
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
+&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
 &nbsp;
 <img src="https://images.tute.io/tute/topic/express-js.png" height="40px"/> 
