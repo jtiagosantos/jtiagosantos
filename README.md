@@ -49,8 +49,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
 &nbsp;
-<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1637761526~hmac=034165f295ec4c492698fd42c0ee1222" height="40px"/>  
-&nbsp;
 </p>
 
 
