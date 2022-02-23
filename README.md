@@ -123,13 +123,7 @@ React Native
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
-&nbsp;
-<img src="https://images.tute.io/tute/topic/express-js.png" height="40px"/> 
-&nbsp;  
-<img src="https://img.icons8.com/color/452/mongodb.png" height="40px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="40px"/>
+<img src="https://react-query.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" height="40px"/>
 &nbsp;
 </p>
 
