@@ -16,7 +16,7 @@ Student of Rocketseat's Ignite Acceleration Program.
 
 <div>
 <img src="https://image.flaticon.com/icons/png/512/1086/1086474.png" height="25px"/>
-Software Development Intern at Agrosmart.
+Software Development at Agrosmart.
 </div>
 
 <div>
