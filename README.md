@@ -5,22 +5,22 @@
 
 ### About me
 <div>
-<img src="https://image.flaticon.com/icons/png/512/2232/2232688.png" height="25px"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" height="25px"/> 
 I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/2285/2285537.png" height="25px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" height="25px"/>
 Student of Rocketseat's Ignite Acceleration Program. 
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/1086/1086474.png" height="25px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
 Software Developer at Agrosmart.
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/2933/2933245.png" height="25px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" height="25px"/>
 Software development student.
 </div>
 
@@ -39,9 +39,9 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226269.png" height="40px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40px"/>
 &nbsp;
-<img src="https://image.flaticon.com/icons/png/512/732/732190.png" height="40px"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="40px"/>  
 &nbsp; 
 <img src="https://image.flaticon.com/icons/png/512/919/919831.png" height="40px"/>  
 &nbsp; 
