@@ -34,6 +34,11 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <a href='https://east-veil-a47.notion.site/Jos-Tiago-Santos-de-Lima-afbbfc085ecd4bd996f6d361a55a01d8'>My resume.</a>
 </div>
 
+<div>
+<img src="https://cdn-icons-png.flaticon.com/512/1102/1102457.png" height="25px"/>
+<a href='https://medium.com/@jtiago_santos'>My Medium.</a>
+</div>
+
 ### Languages
 
 <img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
