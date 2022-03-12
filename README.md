@@ -128,6 +128,8 @@ React Native
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
 &nbsp;
+<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="40px"> 
+&nbsp;
 <img src="https://react-query.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" height="40px"/>
 &nbsp;
 </p>
