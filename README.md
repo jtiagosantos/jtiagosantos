@@ -59,7 +59,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 ### Technologies
 <p>
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40px"/> 
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
 &nbsp;
@@ -108,23 +108,23 @@ My hobbies are playing games, reading, watching anime, series and movies.
 ### Interests
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
 PostgresSQL
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
 GraphQL
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/1828/1828884.png" height="20px"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
 React Native
 </div>
 
 ### I’m currently learning
 <p>
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40px"/> 
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
 &nbsp;
