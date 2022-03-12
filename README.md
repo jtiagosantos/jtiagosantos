@@ -122,7 +122,7 @@ GraphQL
 React Native
 </div>
 
-### I’m currently learning
+### I’m currently working
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40px"/> 
 &nbsp;
@@ -130,7 +130,15 @@ React Native
 &nbsp;
 <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="40px"> 
 &nbsp;
-<img src="https://react-query.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" height="40px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40px"> 
+&nbsp;
+<img src="https://miro.medium.com/max/512/1*m5Wc6pyKsGIf2SnYbUH3PQ.png" height="40px"> 
+&nbsp;
+<img src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" height="35px"> 
+&nbsp;
+<img src="https://res.cloudinary.com/apideck/image/upload/v1597793421/icons/amazon-appsync.png" height="45px"/>
+&nbsp;
+<img src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" height="40px"/>
 &nbsp;
 </p>
 
