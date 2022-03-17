@@ -53,7 +53,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="40px"/>  
 &nbsp; 
-<img src="https://image.flaticon.com/icons/png/512/919/919831.png" height="40px"/>  
+<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="40px"/>  
 &nbsp; 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;  
