@@ -25,7 +25,7 @@ Software development student.
 </div>
 
 <div>
-<img src="https://image.flaticon.com/icons/png/512/833/833472.png" height="25px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emoji_u26a1.svg/2048px-Emoji_u26a1.svg.png" height="25px"/>
 My hobbies are playing games, reading, watching anime, series and movies.
 </div>
 
@@ -92,8 +92,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 ### Tools
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40px"/>  
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="40px"/>  
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40px"/> 
 &nbsp;
