@@ -10,18 +10,13 @@ I am currently a bachelor's student in Computer Science at the Federal Universit
 </div>
 
 <div>
+<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
+Frontend Enginner at Liqi Digital Assets.
+</div>
+
+<div>
 <img src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" height="25px"/>
 Student of Rocketseat's Ignite Acceleration Program. 
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
-Software Developer at Agrosmart.
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" height="25px"/>
-Software development student.
 </div>
 
 <div>
