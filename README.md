@@ -126,17 +126,7 @@ React Native
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
 &nbsp;
-<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" height="40px"> 
-&nbsp;
-<img src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" height="40px"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40px"> 
-&nbsp;
-<img src="https://miro.medium.com/max/512/1*m5Wc6pyKsGIf2SnYbUH3PQ.png" height="40px"> 
-&nbsp;
-<img src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" height="35px"> 
-&nbsp;
-<img src="https://res.cloudinary.com/apideck/image/upload/v1597793421/icons/amazon-appsync.png" height="45px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
 &nbsp;
 </p>
 
