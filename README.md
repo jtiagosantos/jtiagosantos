@@ -11,7 +11,7 @@ I am currently a bachelor's student in Computer Science at the Federal Universit
 
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
-Frontend Enginner at Liqi Digital Assets.
+Front-end Enginner at Liqi Digital Assets.
 </div>
 
 <div>
