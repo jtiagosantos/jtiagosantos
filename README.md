@@ -4,10 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-tiago-santos-de-lima-aaa4361a4/)](https://www.linkedin.com/in/josetiagosantosdelima/)
 
 ### About me
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" height="25px"/> 
-I am currently a bachelor's student in Computer Science at the Federal University of Amazonas.
-</div>
 
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
