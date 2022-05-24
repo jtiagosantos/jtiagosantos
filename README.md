@@ -37,8 +37,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 ### Languages
 
-<img align="right" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
-
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40px"/>
 &nbsp;
