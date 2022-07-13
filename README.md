@@ -57,6 +57,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
 &nbsp;
+<img src="https://icons-for-free.com/download-icon-expo-1324440155568384208_512.png" height="40px"> 
+&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
 &nbsp;
 <img src="https://images.tute.io/tute/topic/express-js.png" height="40px"/> 
@@ -66,6 +68,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 ### Databases
 
 <p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40px"/> 
+&nbsp;
 <img src="https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67" height="40px"/> 
 &nbsp;
 <img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" height="40px"/> 
@@ -96,31 +100,11 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 </p>
 
-
-### Interests
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
-PostgresSQL
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
-GraphQL
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/147/147316.png" height="20px"/>  
-React Native
-</div>
-
 ### I’m currently working
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40px"/> 
+<img src="https://icons-for-free.com/download-icon-expo-1324440155568384208_512.png" height="40px"> 
 &nbsp;
-<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;
 </p>
 
