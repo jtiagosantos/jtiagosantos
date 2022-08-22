@@ -46,7 +46,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp; 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="45px"/>
 &nbsp;
 </p>
 
@@ -63,6 +63,10 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" height="40px"/> 
 &nbsp; 
+<img src="https://www.notion.so/image/https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fdocker-3628734-3029959.png?table=block&id=b20d9845-f7f6-4609-939a-647f881aff05&spaceId=89ee85c4-8e85-430c-8278-f21659cc6ab8&userId=bf3aaeb8-0267-482f-92b5-9f171e07065b&cache=v2" height="50px"/> 
+&nbsp;
+<img src="https://stack.desenvolvedor.expert/appendix/docker/images/compose.png" height="50px"/> 
+&nbsp;
 </p>
 
 ### Databases
