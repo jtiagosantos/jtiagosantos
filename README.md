@@ -67,6 +67,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://stack.desenvolvedor.expert/appendix/docker/images/compose.png" height="50px"/> 
 &nbsp;
+<img src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" height="45px"/> 
+&nbsp;
 </p>
 
 ### Databases
