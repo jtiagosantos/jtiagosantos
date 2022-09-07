@@ -116,6 +116,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/> 
 &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" height="45px"/> 
+&nbsp;
 </p>
 
 ### :zap: GitHub Stats
