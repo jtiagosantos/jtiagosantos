@@ -30,11 +30,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <a href='https://medium.com/@jtiago_santos'>My Medium.</a>
 </div>
 
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/5559/5559753.png" height="25px"/>
-<a href='https://t.me/imageBackgroundRemoverBot'>My Telegram Bot.</a>
-</div>
-
 ### Languages
 
 <p>
