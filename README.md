@@ -41,7 +41,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp; 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
 &nbsp;  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="45px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
 &nbsp;
 </p>
 
@@ -57,6 +57,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/> 
 &nbsp;
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" height="40px"/> 
+&nbsp; 
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="40px"/> 
 &nbsp; 
 <img src="https://www.notion.so/image/https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fdocker-3628734-3029959.png?table=block&id=b20d9845-f7f6-4609-939a-647f881aff05&spaceId=89ee85c4-8e85-430c-8278-f21659cc6ab8&userId=bf3aaeb8-0267-482f-92b5-9f171e07065b&cache=v2" height="50px"/> 
 &nbsp;
@@ -83,6 +85,11 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 </p>
 
+### Cloud
+<p>
+<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40px" />
+</p>
+
 ### Tools
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40px"/>  
@@ -105,7 +112,11 @@ My hobbies are playing games, reading, watching anime, series and movies.
 <p>
 <img src="https://icons-for-free.com/download-icon-expo-1324440155568384208_512.png" height="40px"> 
 &nbsp;
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px"> 
+&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="40px"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40px"/>
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40px"/> 
 &nbsp;
