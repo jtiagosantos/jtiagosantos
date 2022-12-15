@@ -58,6 +58,8 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" height="40px"/> 
 &nbsp; 
+<img src="https://docs.nestjs.com/assets/logo-small.svg" height="40px"/> 
+&nbsp; 
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="40px"/> 
 &nbsp; 
 <img src="https://www.notion.so/image/https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fdocker-3628734-3029959.png?table=block&id=b20d9845-f7f6-4609-939a-647f881aff05&spaceId=89ee85c4-8e85-430c-8278-f21659cc6ab8&userId=bf3aaeb8-0267-482f-92b5-9f171e07065b&cache=v2" height="50px"/> 
