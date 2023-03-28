@@ -7,7 +7,7 @@
 
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" height="25px"/>
-Middle Software Enginner at ACE1.
+Middle Full-Stack Software Enginner at ACE1.
 </div>
 
 <div>
