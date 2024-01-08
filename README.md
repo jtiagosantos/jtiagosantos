@@ -50,8 +50,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px">
 &nbsp;
-<img src="https://icons-for-free.com/download-icon-expo-1324440155568384208_512.png" height="40px">
-&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/>
 &nbsp;
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" height="40px"/>
@@ -85,7 +83,7 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 ### Cloud
 <p>
-<img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" height="40px"/>
 &nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40px" />
 &nbsp;
@@ -112,8 +110,6 @@ My hobbies are playing games, reading, watching anime, series and movies.
 
 ### I’m currently working
 <p>
-<img src="https://icons-for-free.com/download-icon-expo-1324440155568384208_512.png" height="40px">
-&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="35px">
 &nbsp;
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height="40px">
@@ -124,15 +120,11 @@ My hobbies are playing games, reading, watching anime, series and movies.
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40px"/>
 &nbsp;
-<img src="https://camo.githubusercontent.com/9270fc40ed052b4158b76122cc9984c9c9670b717577d3e89497629fc25782e7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" height="40px"/>
-&nbsp;
 <img src="https://docs.nestjs.com/assets/logo-small.svg" height="40px"/>
 &nbsp;
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="40px"/>
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="40px"/>
-&nbsp;
-<img src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" height="40px"/>
 &nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40px" />
 &nbsp;
