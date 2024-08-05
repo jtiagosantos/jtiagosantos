@@ -11,11 +11,6 @@ Middle Full-Stack & Mobile Software Enginner at Newsco.
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" height="25px"/>
-Student of Rocketseat's Ignite Acceleration Program.
-</div>
-
-<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emoji_u26a1.svg/2048px-Emoji_u26a1.svg.png" height="25px"/>
 My hobbies are playing games, reading, watching anime, series and movies.
 </div>
