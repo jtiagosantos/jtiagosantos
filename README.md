@@ -11,11 +11,6 @@ Middle Full-Stack & Mobile Software Enginner at Newsco.
 </div>
 
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emoji_u26a1.svg/2048px-Emoji_u26a1.svg.png" height="25px"/>
-My hobbies are playing games, reading, watching anime, series and movies.
-</div>
-
-<div>
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135766.png" height="25px"/>
 <a href='https://east-veil-a47.notion.site/Jos-Tiago-Santos-de-Lima-afbbfc085ecd4bd996f6d361a55a01d8'>My resume.</a>
 </div>
