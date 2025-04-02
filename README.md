@@ -1,6 +1,6 @@
 # <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50" /> Hi, I'm Tiago Santos!
 
-📄 Checkout my [Linkedin](https://www.linkedin.com/in/josetiagosantosdelima/?locale=en_US) and my [Resume](https://east-veil-a47.notion.site/Jos-Tiago-Santos-de-Lima-1975261347dc8072ab3ee337f2849c94?pvs=74)
+📄 Checkout my [Linkedin](https://www.linkedin.com/in/josetiagosantosdelima/?locale=en_US), my [Portfolio](https://www.jtiagosantos.site/) and my [Resume](https://east-veil-a47.notion.site/Jos-Tiago-Santos-de-Lima-1975261347dc8072ab3ee337f2849c94?pvs=74)
 
 👨‍💻 Software Engineer with solid experience in front-end, back-end, and mobile development. I have expertise in modern technologies such as React, Next.js, React Native, Node.js, TypeScript, AWS, Firebase, and MongoDB. I focus on developing scalable and efficient solutions, with an emphasis on service integration through APIs, clean and maintainable code development, and performance optimization using advanced computing techniques.  
 Currently, I am a Software Engineer at Newsco, leading the development of web and mobile platforms and implementing innovative solutions. My experience also includes implementing complex features in robust systems, with a focus on best development practices and agile methodologies (SCRUM).  
